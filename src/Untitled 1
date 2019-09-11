@@ -1,0 +1,16 @@
+----- THIS IS FOR MAP DEVELOPMENT -----
+
+(0,0,255) ~ BLUE
+Player
+
+(255,255,0) ~ YELLOW
+Wall ('Block' in code)
+
+(255,0,255) ~ PINK
+Door
+
+(0,255,0) ~ GREEN
+Start Button
+
+(255,0,0) ~ RED
+Exit
